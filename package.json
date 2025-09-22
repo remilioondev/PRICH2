@@ -1,0 +1,13 @@
+{
+  "name": "prich-website",
+  "version": "1.0.0",
+  "description": "PRICH - Pre-rich phase website",
+  "main": "index.html",
+  "scripts": {
+    "build": "echo 'Build complete - static files ready'",
+    "start": "echo 'Static website - open index.html in browser'"
+  },
+  "keywords": ["prich", "crypto", "meme", "website"],
+  "author": "",
+  "license": "ISC"
+}
